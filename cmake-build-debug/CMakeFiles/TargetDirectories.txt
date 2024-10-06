@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/дзбагатовимірнй масив/cmake-build-debug/CMakeFiles/_.dir
+C:/Users/User/Desktop/дзбагатовимірнй масив/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/дзбагатовимірнй масив/cmake-build-debug/CMakeFiles/rebuild_cache.dir
